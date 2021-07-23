@@ -1,0 +1,25 @@
+#header{
+    display:flex;
+    justify-content: space-between;
+  }
+  #header-img{
+    width:20%;
+  }
+  .nav-link{
+    text-align:right;
+  }
+  #form{
+    text-align:center;
+  }
+  h2{
+    text-align:center;
+  }
+  p{
+    font-size:16px;
+    text-align:center;
+  }
+  #video{
+    width: auto;
+    height: 200px;
+    margin-left: 35%;
+  }
